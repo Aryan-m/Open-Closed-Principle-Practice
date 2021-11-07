@@ -1,0 +1,9 @@
+C:\Users\kasra\OneDrive\Desktop\Software\C#\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.deps.json
+C:\Users\kasra\OneDrive\Desktop\Software\C#\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.dll
+C:\Users\kasra\OneDrive\Desktop\Software\C#\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.pdb
+C:\Users\kasra\OneDrive\Desktop\Software\C#\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.csprojAssemblyReference.cache
+C:\Users\kasra\OneDrive\Desktop\Software\C#\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.AssemblyInfoInputs.cache
+C:\Users\kasra\OneDrive\Desktop\Software\C#\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.AssemblyInfo.cs
+C:\Users\kasra\OneDrive\Desktop\Software\C#\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\kasra\OneDrive\Desktop\Software\C#\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.dll
+C:\Users\kasra\OneDrive\Desktop\Software\C#\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.pdb

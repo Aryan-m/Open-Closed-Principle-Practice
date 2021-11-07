@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kasra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kasra\\.nuget\\packages"
+    ]
+  }
+}
